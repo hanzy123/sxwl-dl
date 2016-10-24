@@ -68,7 +68,11 @@ example:/Users/mac/python_work/muility_classes/demoimg2/
 
 #### 服务器中文件位置
 ##### lua映射文件
-```/home/sxwl1080/hzy/dl-data/multiclass/splitimag/path_imgtype_link.lua```
+```
+/home/sxwl1080/hzy/dl-data/multiclass/splitimag/path_imgtype_link.lua
+```
 ##### 处理后的文件夹
-```/home/sxwl1080/hzy/dl-data/multiclass/muility_classes/logo_img2```
+```
+/home/sxwl1080/hzy/dl-data/multiclass/muility_classes/logo_img2
+```
 
