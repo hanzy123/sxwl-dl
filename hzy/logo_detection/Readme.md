@@ -26,7 +26,9 @@ logo图片文件夹目录(图片后缀名需为png..好吧这里贪图方便写�
 | |...
 ```
 
-```paste_img.py```参数：
+```
+paste_img.py 参数：
+```
 ```
 python paste_img.py arg1 arg2 arg3 arg4
 
@@ -50,7 +52,9 @@ python paste_img.py /Users/mac/logo_detection/paste_img/new_img /Users/mac/logo_
 | |---adidas_3.jpg
 | |...
 ```
-```voc_type_xml.py```参数：
+```
+voc_type_xml.py 参数：
+```
 ```
 python voc_type_xml.py arg1 arg2 arg3
 
@@ -72,7 +76,9 @@ python voc_type_xml.py /Users/mac/logo_detection/paste_img/Annotations /Users/ma
 | |---adidas_3.xml
 | |...
 ```
-```make_voc_text.py```参数：
+```
+make_voc_text.py 参数：
+```
 ```
 python make_voc_text.py arg1 arg2 arg3 arg4
 
