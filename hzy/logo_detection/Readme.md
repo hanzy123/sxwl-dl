@@ -31,8 +31,14 @@ logo图片文件夹目录(图片后缀名需为png..好吧这里贪图方便写�
 python paste_img.py arg1 arg2 arg3 arg4
 
 arg1:where u want to save your paste_images
+
+
 arg2:where u saving your logo_examples
+
+
 arg3:where u saving your bg_images
+
+
 arg4:where u want to save your position_info.txt
 
 python paste_img.py /Users/mac/logo_detection/paste_img/new_img /Users/mac/logo_detection/paste_img/0_logo_dataset /Users/mac/logo_detection/dataset/FlickrLogos-32/classes/jpg/no-logo /Users/mac/logo_detection/paste_img/position_info.txt
